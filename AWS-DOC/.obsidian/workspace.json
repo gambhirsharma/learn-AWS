@@ -31,16 +31,24 @@
             "id": "2920de4b516f7dc8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3497c77c2835b947",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_Costing/AWS-costing.md",
+                "file": "AWS_Info/aws_infrastructure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS_Costing/AWS-costing.md",
+                "file": "AWS_Info/aws_infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS_Costing/AWS-costing.md",
+                "file": "AWS_Info/aws_infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS_Costing/AWS-costing.md"
+                "file": "AWS_Info/aws_infrastructure.md"
               }
             }
           }
@@ -167,12 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2920de4b516f7dc8",
+  "active": "4ec015ab987bd4f9",
   "lastOpenFiles": [
-    "README.md",
+    "assets",
+    "assets/Pasted image 20240713165032.png",
     "AWS_Costing/AWS-costing.md",
-    "AWS_Costing",
+    "Cool tools.md",
     "SERVICES/saving_plans.md",
+    "SERVICES/Lambda",
+    "SERVICES/IAM",
+    "README.md",
+    "AWS_Costing",
     "Welcome.md",
     "create a link.md"
   ]
