@@ -10,4 +10,4 @@
 - [cloudcraft](https://cloudcraft.co/) generate AWS infrastructure diagram
 
 ## AWS scholarship
-- [AWS AI/ML scholarship](https://aws.amazon.com/machine-learning/scholarship/?sc_channel=sm&sc_publisher=TWITTER&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=539494370)
+- [AWS AI/ML scholarship](https://aws.amazon.com/machine-learning/scholarship/?sc_channel=sm&sc_publisher=TWITTER&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=539494370) - [Twitter post](https://x.com/awscloud/status/1821229177107870044)
